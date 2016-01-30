@@ -101,12 +101,25 @@ atom-text-editor .search-results .marker.current-result .region,
     color: @black;
 
     &.control {
-      color: @cyan;
+      color: @blue;
     }
+    &.operator {
+      color: @green;
+    }
+  }
+  &.support.class {
+    color: lighten(@green, 3%);
+    font-weight: 300;
+  }
+  &.storage {
+    color: darken(@very-dark-gray, 10%);
   }
   .string {
     color: @very-dark-gray;
     background: @gray;
+  }
+  &.property {
+    color: darken(@very-dark-gray, 15%);
   }
 }
 .shell {

@@ -1,13 +1,13 @@
 {
   "name": "vital-light-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "1.0.0",
+  "description": "A minimal theme that highlights the import elements of your code.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/vital-light-syntax",
+  "repository": "https://github.com/jaredlunde/vital-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
