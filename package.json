@@ -1,7 +1,7 @@
 {
   "name": "vital-light-syntax",
   "theme": "syntax",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "A minimal theme that highlights the import elements of your code.",
   "keywords": [
     "syntax",
